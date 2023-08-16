@@ -1,7 +1,7 @@
 /*La constante que nos va a decir los turnos*/
 export const TURNOS = {
-    X:"🤍",
-    O:"❤️"
+    X:"🌞",
+    O:"🌚"
     }
     
 export const CombGanadoras = [
