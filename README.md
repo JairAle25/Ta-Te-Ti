@@ -12,6 +12,12 @@ Este proyecto surge como resultado de mi dedicación para mejorar mis habilidade
 
 - **Juego de Dos Jugadores:** Disfruta del Ta-Te-Ti con un amigo en la misma PC. Cada jugador toma turnos para marcar su casilla en el tablero hasta que uno de ellos logra completar una línea de tres símbolos.
 
+## Tecnologías Utilizadas
+
+- React <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" style="width:23px;">
+- HTML y CSS <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="" width="20px"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="" width="20px">
+- Git y GitHub <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" style="width:23px;">
+
 ## <span style="color:blue">Cómo Jugar</span>
 
 Aqui te dejo el link para empezar jugar : https://ta-te-ti-jair.netlify.app/
