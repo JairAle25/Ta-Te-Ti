@@ -42,7 +42,3 @@ Aqui te dejo el link para empezar jugar : https://ta-te-ti-jair.netlify.app/
 ## <span style="color:blue">Contribuciones</span>
 
 ¡Las contribuciones son bienvenidas! Si encuentras errores o tienes ideas para mejorar el juego, por favor, abre un problema o envía una solicitud de extracción.
-
-## <span style="color:blue">Licencia</span>
-
-Este proyecto está bajo la Licencia [MIT](LICENSE).
